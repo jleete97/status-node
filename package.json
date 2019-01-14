@@ -1,0 +1,23 @@
+{
+  "name": "status-node",
+  "version": "1.0.0",
+  "description": "Status Panel display",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jleete97/status-node.git"
+  },
+  "author": "Jon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jleete97/status-node/issues"
+  },
+  "homepage": "https://github.com/jleete97/status-node#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
